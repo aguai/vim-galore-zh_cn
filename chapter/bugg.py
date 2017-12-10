@@ -1,0 +1,11 @@
+err = ['additional-resources.md',
+       'bracketed-paste.md',
+       'delays-when-using-escape-key-in-terminal.md',
+       'easter-eggs.md',
+       'editing-huge-files-is-slow.md',
+       'function-search-undo.md',
+       'map-capslock-to-control.md',
+       'newline-used-for-nul.md',
+       'standard-plugins.md',
+       'vim-distributions.md',
+       'why-hjkl-for-navigation.md']

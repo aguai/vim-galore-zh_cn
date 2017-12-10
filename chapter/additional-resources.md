@@ -1,12 +1,12 @@
-## ¸½¼Ó×ÊÔ´
+## é™„åŠ èµ„æº
 
-| ×ÊÔ´Ãû³Æ | ¼ò½é |
+| èµ„æºåç§° | ç®€ä»‹ |
 |----------|-------------|
-| [Æß¸ö¸ßĞ§µÄÎÄ±¾±à¼­Ï°¹ß](http://www.moolenaar.net/habits.html) | ×÷Õß£ºBram Moolenaar£¨¼´ Vim µÄ×÷Õß£© |
-| [Æß¸ö¸ßĞ§µÄÎÄ±¾±à¼­Ï°¹ß2.0£¨PDF°æ£©](http://www.moolenaar.net/habits_2007.pdf) | Í¬ÉÏ |
-| [IBM DeveloperWorks: Ê¹ÓÃ½Å±¾±àĞ´ Vim ±à¼­Æ÷](http://www.ibm.com/developerworks/views/linux/libraryview.jsp?sort_order=asc&sort_by=Title&search_by=scripting+the+vim+editor) | Vim ½Å±¾±àĞ´Îå¼­ |
-| [¡¶ÂşÂş Vim Â·¡·](http://learnvimscriptthehardway.stevelosh.com) | Ê¹ÓÃÄ§×¥¶¨ÖÆ Vim ²å¼ş |
-| [¡¶ Vim Êµ¼ù (µÚ2°æ)¡·](http://www.amazon.com/Practical-Vim-Edit-Speed-Thought/dp/1680501275/) | ÇáÈ¡ Vim ×î¼ÑÊé¼® |
-| [Vimcasts.org](http://vimcasts.org/episodes/archive) | VimÂ¼ÆÁÑİÊ¾ |
-| [ÎªÊ²Ã´ÊÇ¸ö½Å±¾¶¼ÓÃ vi£¿](http://www.viemu.com/a-why-vi-vim.html) | ³£¼ûÎóÇøÊÍÒÉ |
-| [Äã²»°® vi£¬ËùÒÔÄã²»¶® Vim ](http://stackoverflow.com/a/1220118) | ¼òÃ÷,¶óÒª,×¼È·µÄ¸É»õ |
+| [ä¸ƒä¸ªé«˜æ•ˆçš„æ–‡æœ¬ç¼–è¾‘ä¹ æƒ¯](http://www.moolenaar.net/habits.html) | ä½œè€…ï¼šBram Moolenaarï¼ˆå³ Vim çš„ä½œè€…ï¼‰ |
+| [ä¸ƒä¸ªé«˜æ•ˆçš„æ–‡æœ¬ç¼–è¾‘ä¹ æƒ¯2.0ï¼ˆPDFç‰ˆï¼‰](http://www.moolenaar.net/habits_2007.pdf) | åŒä¸Š |
+| [IBM DeveloperWorks: ä½¿ç”¨è„šæœ¬ç¼–å†™ Vim ç¼–è¾‘å™¨](http://www.ibm.com/developerworks/views/linux/libraryview.jsp?sort_order=asc&sort_by=Title&search_by=scripting+the+vim+editor) | Vim è„šæœ¬ç¼–å†™äº”è¾‘ |
+| [ã€Šæ¼«æ¼« Vim è·¯ã€‹](http://learnvimscriptthehardway.stevelosh.com) | ä½¿ç”¨é­”æŠ“å®šåˆ¶ Vim æ’ä»¶ |
+| [ã€Š Vim å®è·µ (ç¬¬2ç‰ˆ)ã€‹](http://www.amazon.com/Practical-Vim-Edit-Speed-Thought/dp/1680501275/) | è½»å– Vim æœ€ä½³ä¹¦ç± |
+| [Vimcasts.org](http://vimcasts.org/episodes/archive) | Vimå½•å±æ¼”ç¤º |
+| [ä¸ºä»€ä¹ˆæ˜¯ä¸ªè„šæœ¬éƒ½ç”¨ viï¼Ÿ](http://www.viemu.com/a-why-vi-vim.html) | å¸¸è§è¯¯åŒºé‡Šç–‘ |
+| [ä½ ä¸çˆ± viï¼Œæ‰€ä»¥ä½ ä¸æ‡‚ Vim ](http://stackoverflow.com/a/1220118) | ç®€æ˜,æ‰¼è¦,å‡†ç¡®çš„å¹²è´§ |
