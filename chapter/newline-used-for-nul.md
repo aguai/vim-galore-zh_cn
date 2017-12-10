@@ -1,6 +1,11 @@
 ## NUL 符用新行表示
 
 文件中的 NUL 符 （`\0`），在內存中被以新行（`\n`）保存，在緩存空間中顯示爲 `^@`。
+<<<<<<< HEAD
 
 更多信息請參看 `man 7 ascii` 和 `:h NL-used-for-Nul` 。
 
+=======
+
+更多信息請參看 `man 7 ascii` 和 `:h NL-used-for-Nul` 。
+>>>>>>> d1b61fba0413d6da94297f6a2e354514194d4cae
