@@ -28,7 +28,7 @@
 - 原文地址：<https://github.com/mhinz/vim-galore>
 - 原文作者：Marco Hinz
 - 原譯地址：<https://github.com/wsdjeg/vim-galore-zh_cn>
-- 本文地址：<https://github.com/wsdjeg/vim-galore-zh_hant>    
+- 本文地址：<https://github.com/aguai/vim-galore-zh_hant>    
 本文僅轉碼原 GB2312 編碼的數個文件後轉為繁體中文
 
 ```for i in *md; do cat $i |opencc  > tmp ; cat tmp> $i ;done```
