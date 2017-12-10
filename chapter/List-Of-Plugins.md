@@ -1,29 +1,29 @@
 ## 插件列表
 
-#### [以功能区分](#以功能区分-1)
+#### [以功能區分](#以功能區分-1)
 
-- [文本对齐](#文本对齐)
-- [构建和可疑代码标记](#构建和可疑代码标记)
-- [代码补全](#代码补全)
+- [文本對齊](#文本對齊)
+- [構建和可疑代碼標記](#構建和可疑代碼標記)
+- [代碼補全](#代碼補全)
 - [Cycle](#cycle)
-- [注释工具](#注释工具)
+- [註釋工具](#註釋工具)
 - [分割符](#分割符)
 - [模糊搜索](#模糊搜索)
 - [Grep 工具](#grep-工具)
-- [缩进](#缩进)
-- [文件导航](#文件导航)
-- [代码片段](#代码片段)
-- [状态栏](#状态栏)
-- [文字环绕符](#文字环绕符)
-- [记笔记](#记笔记)
-- [文本对象](#文本对象)
+- [縮進](#縮進)
+- [文件導航](#文件導航)
+- [代碼片段](#代碼片段)
+- [狀態欄](#狀態欄)
+- [文字環繞符](#文字環繞符)
+- [記筆記](#記筆記)
+- [文本對象](#文本對象)
 - [Tmux](#tmux)
-- [撤销历史](#撤销历史)
+- [撤銷歷史](#撤銷歷史)
 - [版本控制](#版本控制)
-- [写作工具](#写作工具)
+- [寫作工具](#寫作工具)
 - [其他](#其他)
 
-#### [以文件类型区分](#以文件类型区分-1)
+#### [以文件類型區分](#以文件類型區分-1)
 
 - [C and C++](#c-and-c)
 - [Clojure](#clojure)
@@ -36,20 +36,20 @@
 - [TeX](#tex)
 - [VimL](#viml)
 
-## 以功能区分
+## 以功能區分
 
-#### 文本对齐 
+#### 文本對齊 
 
 - [tabular](https://github.com/godlygeek/tabular)
 - [vim-easy-align](https://github.com/junegunn/vim-easy-align)
 
-#### 构建和可疑代码标记
+#### 構建和可疑代碼標記
 
 - [ale](https://github.com/w0rp/ale)
 - [neomake](https://github.com/neomake/neomake)
 - [syntastic](https://github.com/vim-syntastic/syntastic)
 
-#### 代码补全
+#### 代碼補全
 
 - [VimCompletesMe](https://github.com/ajh17/VimCompletesMe)
 - [YouCompleteMe](https://github.com/Valloric/YouCompleteMe)
@@ -64,7 +64,7 @@
 - [switch.vim](https://github.com/AndrewRadev/switch.vim)
 - [vim-speeddating](https://github.com/tpope/vim-speeddating)
 
-#### 注释工具
+#### 註釋工具
 
 - [nerdcommenter](https://github.com/scrooloose/nerdcommenter)
 - [tcomment_vim](https://github.com/tomtom/tcomment_vim)
@@ -90,12 +90,12 @@
 - [ferret](https://github.com/wincent/ferret)
 - [vim-grepper](https://github.com/mhinz/vim-grepper)
 
-#### 缩进
+#### 縮進
 
 - [indentLine](https://github.com/Yggdroot/indentLine)
 - [vim-indent-guides](https://github.com/nathanaelkane/vim-indent-guides)
 
-#### 文件导航 
+#### 文件導航 
 
 - [nerdtree](https://github.com/scrooloose/nerdtree)
 - [tagbar](https://github.com/majutsushi/tagbar)
@@ -105,29 +105,29 @@
 - [vim-vinegar](https://github.com/tpope/vim-vinegar)
 - [vimfiler.vim](https://github.com/Shougo/vimfiler.vim) (_depends on other plugins_)
 
-见[fuzzy finders](#fuzzy-finders).
+見[fuzzy finders](#fuzzy-finders).
 
-#### 代码片段
+#### 代碼片段
 
 - [neosnippet.vim](https://github.com/Shougo/neosnippet.vim) (_depends on other plugins_)
 - [ultisnips](https://github.com/SirVer/ultisnips)
 - [vim-snipmate](https://github.com/garbas/vim-snipmate) (_depends on other plugins_)
 - [xptemplate](https://github.com/drmingdrmer/xptemplate)
 
-#### 状态栏
+#### 狀態欄
 
 - [lightline.vim](https://github.com/itchyny/lightline.vim)
 - [powerline](https://github.com/powerline/powerline)
 - [vim-airline](https://github.com/vim-airline/vim-airline)
 - [vim-flagship](https://github.com/tpope/vim-flagship)
 
-#### 文字环绕符 
+#### 文字環繞符 
 
 - [vim-operator-surround](https://github.com/rhysd/vim-operator-surround)
 - [vim-sandwich](https://github.com/machakann/vim-sandwich)
 - [vim-surround](https://github.com/tpope/vim-surround)
 
-#### 记笔记 
+#### 記筆記 
 
 - [vim-dotoo](https://github.com/dhruvasagar/vim-dotoo)
 - [vim-journal](https://github.com/junegunn/vim-journal)
@@ -136,7 +136,7 @@
 - [vim-pad](https://github.com/fmoralesc/vim-pad)
 - [vimwiki](https://github.com/vimwiki/vimwiki)
 
-#### 文本对象
+#### 文本對象
 
 - [targets.vim](https://github.com/wellle/targets.vim)
 - [vim-exchange](https://github.com/tommcdo/vim-exchange)
@@ -149,7 +149,7 @@
 - [vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator)
 - [vitality.vim](https://github.com/sjl/vitality.vim)
 
-#### 撤销历史 
+#### 撤銷歷史 
 
 - [gundo.vim](https://github.com/sjl/gundo.vim)
 - [undotree](https://github.com/mbbill/undotree)
@@ -170,7 +170,7 @@
 - [vim-signify](https://github.com/mhinz/vim-signify)
 - [vimagit](https://github.com/jreybert/vimagit)
 
-#### 写作工具
+#### 寫作工具
 
 - [vim-grammarous](https://github.com/rhysd/vim-grammarous)
 - [vim-online-thesaurus](https://github.com/beloglazov/vim-online-thesaurus)
@@ -199,7 +199,7 @@
 - [vim-startify](https://github.com/mhinz/vim-startify)
 - [vim-unimpaired](https://github.com/tpope/vim-unimpaired)
 
-## 以文件类型区分
+## 以文件類型區分
 
 #### C and C++
 

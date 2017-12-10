@@ -1,24 +1,24 @@
-有兴趣加入本项目的话，请关注下面的认领列表，选择相应的章节翻译，或者协助校验正在翻译的项目。如果有兴趣加入，可以fork本项目，开始翻译后提交PR，便于我们协助校验，不必翻译结束后才提交PR.
+有興趣加入本項目的話，請關注下面的認領列表，選擇相應的章節翻譯，或者協助校驗正在翻譯的項目。如果有興趣加入，可以fork本項目，開始翻譯後提交PR，便於我們協助校驗，不必翻譯結束後才提交PR.
 
-## 认领方式
+## 認領方式
 
-**开issue**
+**開issue**
 
 ```md
-章节名称：*****
-译者：******
-PR: PR的链接
+章節名稱：*****
+譯者：******
+PR: PR的鏈接
 ```
 
 ## 提交方式
 
-每个章节独立翻译，并提交至 [chapter/](chapter/) 文件夹，文件名为英文标题小写，以`-`链接单词。例如翻译`What is Vim？`章节， 文件名即为`chapter/what-is-vim.md`. 合并到主仓库后，将定期将这些章节文件合并到`README.dm`。
+每個章節獨立翻譯，並提交至 [chapter/](chapter/) 文件夾，文件名爲英文標題小寫，以`-`鏈接單詞。例如翻譯`What is Vim？`章節， 文件名即爲`chapter/what-is-vim.md`. 合併到主倉庫後，將定期將這些章節文件合併到`README.dm`。
 
-## 章节列表
+## 章節列表
 
-基于[mhinz/vim-galore@d50d48b](https://github.com/mhinz/vim-galore/tree/d50d48bce40bbbd99a0528a2893b00cf54a6f4b9), 后期如果有改动，定期在更新。
+基於[mhinz/vim-galore@d50d48b](https://github.com/mhinz/vim-galore/tree/d50d48bce40bbbd99a0528a2893b00cf54a6f4b9), 後期如果有改動，定期在更新。
 
-|章节名称|认领状态|PR链接|
+|章節名稱|認領狀態|PR鏈接|
 |:------|:------|:------|
 | [Intro](https://github.com/mhinz/vim-galore#intro) | [wsdjeg] | [#4] |
 | [What is Vim?](https://github.com/mhinz/vim-galore#what-is-vim) | [wsdjeg] | [#4] |
