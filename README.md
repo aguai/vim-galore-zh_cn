@@ -31,7 +31,8 @@
 - 本文地址：<https://github.com/aguai/vim-galore-zh_hant>    
 本文僅轉碼原 GB2312 編碼的數個文件後轉為繁體中文
 
-```for i in *md; do cat $i |opencc  > tmp ; cat tmp> $i ;done```
+```for i in *md; do cat $i |opencc  > tmp ; cat tmp> $i ;done```   
+```declare -a temp=(); for i in *md; chardetect $i |grep  -iq 'GB'&& temp+=$i; for j in $temp ; iconv -f GBK -t UTF8 $j >tmp && cat tmp > $j ; unset temp ;rm tmp```
 
 <!-- vim-markdown-toc GFM -->
 
